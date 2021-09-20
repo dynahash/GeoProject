@@ -27,6 +27,7 @@
 }
 .footer {
   background-color: #24262b;
+  text-align: center;
 }
 .footer-col{
   width: 25%;
@@ -150,6 +151,13 @@ div.sobre-princ div {
 }
 
 .text-card{
+  margin: 50px;
+  display: flex;
+  text-align: justify;
+}
+
+p {
+  width: 50%;
   margin: 50px;
 }
 

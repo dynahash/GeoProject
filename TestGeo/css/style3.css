@@ -14,6 +14,7 @@ main {
   .nav-list li {
     letter-spacing: 3px;
     margin-left: 32px;
+    margin-top: 20px;
   }
   
   .mobile-menu {
@@ -28,7 +29,7 @@ main {
     margin: 8px;
     transition: 0.3s;
   }
-  
+   
   @media (max-width: 999px) {
     body {
       overflow-x: hidden;

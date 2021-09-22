@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif ;
     color: #232424;
     text-decoration: none;
-  }
+}
   
   body {
     left: 0px;
@@ -17,7 +17,7 @@
 
 .sobre-princ p {
     text-align: center;
-    margin:50px 0 50px 300px;
+    margin:50px 100px 50px 100px;
 }
 
 /* end */
@@ -36,7 +36,7 @@
   transition: 0.3s;
   width: 20%;
   margin: 5% 5%;
-  
+  cursor: pointer;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -51,24 +51,26 @@
 
 /* end */
 
+/* HOME */
 .countainer-1 {
   display: flex;
   margin: 100px 300px;
-  /*position: relative;*/
+  position: relative;
   justify-content: space-around;
 }
+
+/* end */
 
 .countainer-card {
   display: flex;
 }
 
 .text-card{
-  margin: 50px;
+  margin: 60px;
 }
 
 p {
-  width: 50%;
-  margin: 50px;
+  margin: 20px;
 }
 
 #bnt-1 {
